@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=y5XyRB0VFqs
 
 Awesome right? If you look closely, not so perfect, but still kinda ok. However, that is the point: You can and should take as much advise from much better players than me as you can, but as an intermediate player, you still feel kinda alone. You might think "Yeah, he's talking like that because he plays since forever" or "That guy is so good, he cannot even remember anymore being not so good" or "Something is missing, I am doing exactly that but still not getting results". If you are reading this, you are a guitar journeyman (or journeywoman, if you prefer). These are your lonely years of travel, where you go from town to town and learn the trade you want to master. However, you might not see it, but we are legion! We are in your town, we are the ones you might not expect to play the guitar (I hear that one all the time), and if we work together, maybe we can help each other improve. 
 
-So without further ado, what happened in the last 4 weeks? Let me tell you what I found out:
+So without further ado, what happened in the last 4 weeks, apart from me buying a new guitar? Let me tell you what I found out:
 
 ## Pick it like Hetfield
 Well, first of all, if you didn't already know, James Hetfield is the god of downpicking. It's not that I say that. Dimebag Darrell said that. A lot of people much better than you and me combined said that. And it is true. And this in itself would be a fully working argument on why you should downpick Metallica songs. 
@@ -67,7 +67,9 @@ If you however are interested in playing this with a Jazz III, then keep reading
 
 ## Edging out a victory
 The Jazz III is made for edge picking. If you try picking the strings totally flat with it, you are not realizing it's full potential. It's like driving with brakes on. Or crushing the skulls of your enemies with an AK-47. Sure, you might be able to get to your goal, but man, there is much simpler way.
-Basically it just means you twist your pick so it is not absolutely flat against the strings, but more perpendicular. If you try to do it flat, you will get a sticky, stucky feeling on plucking. Troy Grady has awesome illustrations on that on his YouTube channel: https://www.youtube.com/watch?v=SeqotzwM1uY. Yes, edge picking changes the sound, but like I said, if you don't like it, just go and do it like Sir Hetfield. So now you have to find the proper angle for you. It can be a right angle, but probably it sits somewhere between 0 and 90 degrees. Yes, I voluntarily avoided a joke about "right" and "proper" angles. 
+Basically it just means you twist your pick so it is not absolutely flat against the strings, but more perpendicular. If you try to do it flat, you will get a sticky, stucky feeling on plucking. Troy Grady has awesome illustrations on that on his YouTube channel: https://www.youtube.com/watch?v=SeqotzwM1uY. 
+
+Yes, edge picking changes the sound, but like I said, if you don't like it, just go and do it like Sir Hetfield. So now you have to find the proper angle for you. It can be a right angle, but probably it sits somewhere between 0 and 90 degrees. Yes, I voluntarily avoided a joke about "right" and "proper" angles. 
 
 ## Overcoming the (ad)Verse(ity)
 Let's start with the simplest and most fun of the MoP riffs, the verse.
@@ -140,16 +142,24 @@ You need to get out. It would be easy...if there was not a last obstacle. The dr
 You want to show the world that you have mastered Master of Puppets. No, actually, now you feel you have surpassed the god of downpicking James Hetfield himself, that you have _mastered the master of Master of Puppets_. You are Neither Master nor Puppet anymore, you have trancended every duality there ever was, and you are now more than a mortal man. But only if you get out of here alive.
 So there it is. The scale run. You heart starts pumping. Then you remember, when you paid attention to the tiniest, ugliest creature on the roadside. And now this ugly creature comes back to save you. This creature? The humble build up riff. Remember when you did the upstroke even though you could have easily done just 2 downstrokes? This upstroke now has grown into adulthood. Strong enough to carry your overworked, tired body back home. 
 And it's not coming alone. It has brought your new improved left hand. It has brought a mechanical spider that works on your command. It has brought Troy and Julien and Uncle Ben and all the other friends from YouTube. It has brought both playing fast right away and building up to speed. They get you of here.
-You are done. 
+
+You are done.
+
 You are home. 
+
 You can now play Hetfield's guitar in Master of Puppets.
+
 You pick up your guitar and try to learn another song. 
+
 Your first try fails. 
+
 You slowly but surely wake up and realize:
+
 You are better, but still no real god.
+
 Maybe playing Master of Puppets isn't the treasure you always thought it was.
 
-Maybe The Real Treasure Was the Friends We Made Along the Way 
+__Maybe The Real Treasure Was the Friends We Made Along the Way__
 
 
 
