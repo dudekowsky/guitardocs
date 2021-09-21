@@ -8,6 +8,10 @@ Undoubtedly you have come across many trials and have done many different things
 Probably you tried the Youtube speed adjustment feature. Maybe you have downloaded the song off of YouTube and adjusted the speed in your DAW.
 Maybe you have been exercising your straight downpicking each day with a metronome and have built a forearm so thick and muscular that everybody tells you get a girlfriend/boyfriend instead. Maybe you are already an accomplished alternate picker and cannot fathom why your girly wrist deviation picking mechanics just doesn't seem to do the job. Maybe you can *sorta* downpick it, but have to resort to cheating on the spider riff.
 
+Maybe you don't even know the notes to it yet (or you do, but you are probably wrong).
+In any case, check out Julien Menard who has the best Metallica tabs on YouTube:
+https://www.youtube.com/watch?v=dGD_tN7pYZo
+
 I know those sorts of things, because I have been through them all. But I can finally play it as good as I can play any song. 
 Without tension, without strain, not yet perfect, but maybe to put that into context, let me introduce myself:
 I used to play in some bands in my teenage and student years, but have never been really practicing anything other than drinking beer and picking up girls. So when lockdown almost killed me 4-5 months ago, I got my old trusty Kramer Striker 211 out of the cubbyhole and started playing.
@@ -35,6 +39,9 @@ One more argument is: Well, if you cannot downpick 8ths, what are you going to d
 
 The way Hetfield picks, is just standard folkstyle strumming, which follows 2 simple rules: Downpick 8ths, Alternate Pick 16ths.
 It is a myth that he always downpicks. He just follows the handbook and we will see shortly that even the MoP rhythm section has got alternate picking in them. Just do it like him. Just follow the rules. Just __Obey Your Master__
+
+## Fret it like Hetfield
+Well, for the chorus you are gonna find out pretty fast that Metallica plays power chords with index finger and pinky, and so should you if want to be cool. But do as you like and you will easily see where you fail with the traditional "index, ringfinger, pinky" power chord.
 
 ## Forearm Veins that Pump with Fear
 Let's talk about picking technique. Troy Grady, the creator of the "Cracking the Code" series is the person I attribute with even coming up with a proper language of talking about them, so this whole ReadMe is just a humble extension of his astonishing work. 
@@ -132,7 +139,7 @@ You killed the Spider monster. Twice. You extracted it's poison and now you can 
 You need to get out. It would be easy...if there was not a last obstacle. The dreaded scale run. You are anxious the got this whole song over with. You want to go home
 You want to show the world that you have mastered Master of Puppets. No, actually, now you feel you have surpassed the god of downpicking James Hetfield himself, that you have _mastered the master of Master of Puppets_. You are Neither Master nor Puppet anymore, you have trancended every duality there ever was, and you are now more than a mortal man. But only if you get out of here alive.
 So there it is. The scale run. You heart starts pumping. Then you remember, when you paid attention to the tiniest, ugliest creature on the roadside. And now this ugly creature comes back to save you. This creature? The humble build up riff. Remember when you did the upstroke even though you could have easily done just 2 downstrokes? This upstroke now has grown into adulthood. Strong enough to carry your overworked, tired body back home. 
-And it's not coming alone. It has brought your new improved left hand. It has brought a mechanical spider that works on your command. It has brought Troy and Uncle Ben and all the other friends from YouTube. It has brought both playing fast right away and building up to speed. They get you of here.
+And it's not coming alone. It has brought your new improved left hand. It has brought a mechanical spider that works on your command. It has brought Troy and Julien and Uncle Ben and all the other friends from YouTube. It has brought both playing fast right away and building up to speed. They get you of here.
 You are done. 
 You are home. 
 You can now play Hetfield's guitar in Master of Puppets.
