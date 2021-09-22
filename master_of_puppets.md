@@ -143,6 +143,8 @@ You want to show the world that you have mastered Master of Puppets. No, actuall
 So there it is. The scale run. You heart starts pumping. Then you remember, when you paid attention to the tiniest, ugliest creature on the roadside. And now this ugly creature comes back to save you. This creature? The humble build up riff. Remember when you did the upstroke even though you could have easily done just 2 downstrokes? This upstroke now has grown into adulthood. Strong enough to carry your overworked, tired body back home. 
 And it's not coming alone. It has brought your new improved left hand. It has brought a mechanical spider that works on your command. It has brought Troy and Julien and Uncle Ben and all the other friends from YouTube. It has brought both playing fast right away and building up to speed. They get you of here.
 
+## The aftermath
+
 You are done.
 
 You are home. 
